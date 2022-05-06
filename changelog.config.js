@@ -14,15 +14,7 @@ module.exports = {
   ],
   maxMessageLength: 64,
   minMessageLength: 3,
-  questions: [
-    "type",
-    "scope",
-    "subject",
-    "body",
-    "breaking",
-    "issues",
-    "lerna",
-  ],
+  questions: ["type", "issues", "subject"],
   scopes: [],
   types: {
     chore: {
@@ -66,7 +58,7 @@ module.exports = {
       value: "style",
     },
     test: {
-      description: "テストの追加",
+      description: "テストの追加や既存テストの修正",
       emoji: "💍",
       value: "test",
     },
