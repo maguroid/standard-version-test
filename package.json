@@ -12,13 +12,17 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "release:major": "standard-version --release-as major",
     "release:minor": "standard-version --release-as minor",
-    "release:patch": "standard-version --release-as patch"
+    "release:patch": "standard-version --release-as patch",
+    "prepare": "husky install"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@commitlint/cli": "^16.2.4",
+    "@commitlint/config-conventional": "^16.2.4",
     "git-cz": "^4.8.0",
+    "husky": "^7.0.0",
     "standard-version": "^9.3.2"
   }
 }
