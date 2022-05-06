@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.0.0](///compare/v3.1.10...v4.0.0) (2022-05-06)
+
+
+### Features
+
+* release test script bfde170
+
 ### [3.1.10](///compare/v3.1.9...v3.1.10) (2022-05-06)
 
 ### [3.1.9](///compare/v3.1.8...v3.1.9) (2022-05-06)
