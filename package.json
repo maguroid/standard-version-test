@@ -1,6 +1,11 @@
 {
   "name": "standard-version-test",
   "version": "4.0.0",
+  "config": {
+    "commitizen": {
+      "path": "git-cz"
+    }
+  },
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,6 +18,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "git-cz": "^4.8.0",
     "standard-version": "^9.3.2"
   }
 }
