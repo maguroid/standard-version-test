@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [4.0.1](https://github.com/maguroid/standard-version-test/compare/v4.0.0...v4.0.1) (2022-05-06)
+
 ## [4.0.0](///compare/v3.1.10...v4.0.0) (2022-05-06)
 
 
