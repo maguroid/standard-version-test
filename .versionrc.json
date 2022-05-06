@@ -1,0 +1,14 @@
+{
+  "types": [
+    {
+      "type": "feature",
+      "section": "新機能 / 既存機能の追加実装",
+      "hidden": false
+    },
+    {
+      "type": "fix",
+      "section": "バグ修正",
+      "hidden": false
+    }
+  ]
+}
