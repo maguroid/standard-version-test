@@ -1,1 +1,1 @@
-console.log("merge commit test");
+console.log("merge commit of remote branch test");
